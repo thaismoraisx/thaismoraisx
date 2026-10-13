@@ -68,9 +68,9 @@
 
 <img
   align="right"
-  alt="Girl coding on a laptop"
+  alt="Girl coding animation"
   width="280"
-  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"
+  src="./assets/girl_coding.gif"
 />
 <p>
   Hi! I'm Thaís, a technology student passionate about
@@ -103,3 +103,36 @@
 </p>
 
 <br clear="both">
+
+<!-- GitHub Statistics -->
+
+<br>
+
+<h2>📊 GitHub Statistics</h2>
+
+<p>My coding journey in numbers! 🌸</p>
+
+<div>
+  <img
+    height="180"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=thaismoraisx&show_icons=true&theme=default&bg_color=FFF0F5&title_color=9575CD&text_color=6A5ACD&icon_color=C8A2C8&border_color=F8BBD0&border_radius=15"
+  /> <img
+    height="180"
+    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoraisx&layout=compact&bg_color=FFF0F5&title_color=9575CD&text_color=6A5ACD&border_color=F8BBD0&border_radius=15"
+  />
+</div>
+
+<br>
+<!-- GitHub Activity Graph -->
+
+<br>
+
+<h2>🌸 My Coding Activity</h2>
+
+<p>A little glimpse of my coding journey! ✨</p>
+
+<!-- O gráfico será adicionado aqui -->
+
+<br>
