@@ -49,13 +49,13 @@
 
 
 <div>
-  <img alt="HTML5" title="HTML5" width="30" height="50" hspace="3"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     <img alt="CSS3" title="CSS3" width="30" height="50" hspace="3"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img alt="JavaScript" title="JavaScript" width="30" height="50" hspace="3"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="C" title="C" width="30" height="50" hspace="3"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img alt="Git" title="Git" width="30" height="50" hspace="3"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /  <img alt="GitHub" title="GitHub" width="30" height="50" hspace="3"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img alt="Visual Studio Code" title="VS Code" width="30" height="50" hspace="3"
+  <img alt="HTML5" title="HTML5" width="30" height="40" hspace="5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     <img alt="CSS3" title="CSS3" width="30" height="40" hspace="5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img alt="JavaScript" title="JavaScript" width="30" height="40" hspace="5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="C" title="C" width="30" height="40" hspace="5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img alt="Git" title="Git" width="30" height="40" hspace="5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /  <img alt="GitHub" title="GitHub" width="30" height="40" hspace="5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img alt="Visual Studio Code" title="VS Code" width="30" height="40" hspace="5"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
@@ -104,5 +104,15 @@
 
 <br clear="both">
 
+
+<br>
+
+<!-- Snake Animation -->
+
+<img
+  src="https://raw.githubusercontent.com/thaismoraisx/thaismoraisx/output/github-snake.svg"
+  alt="Snake animation"
+  width="100%"
+/>
 
 <br>
