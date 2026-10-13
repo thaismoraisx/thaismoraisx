@@ -35,9 +35,7 @@
     height="180"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=thaismoraisx&show_icons=true&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&icon_color=80CBC4&border_color=858595&border_radius=0&ring_color=F48FB1"
-  />
-
-  <img
+  />  <img
     height="180"
     alt="Most Used Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoraisx&layout=compact&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&border_color=858595&border_radius=0&hide_border=false"
