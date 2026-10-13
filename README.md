@@ -30,20 +30,18 @@
 </div>
 
 <!-- GitHub Statistics -->
-
 <div>
   <img
     height="180"
     alt="GitHub Stats"
-  src="https://github-readme-stats.vercel.app/api?username=thaismoraisx&show_icons=true&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&icon_color=80CBC4&border_color=858595&border_radius=0&ring_color=F48FB1"
-  /> <img
+    src="https://github-readme-stats.vercel.app/api?username=thaismoraisx&show_icons=true&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&icon_color=80CBC4&border_color=858595&border_radius=0&ring_color=F48FB1"
+  />
+
+  <img
     height="180"
     alt="Most Used Languages"
-    <img
-  height="180"
-  alt="Most Used Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoraisx&layout=compact&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&border_color=858595&border_radius=0&hide_border=false"
-/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoraisx&layout=compact&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&border_color=858595&border_radius=0&hide_border=false"
+  />
 </div>
 <!-- Seção de tecnologias -->
 
@@ -54,7 +52,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img alt="JavaScript" title="JavaScript" width="30" height="40" hspace="5"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="C" title="C" width="30" height="40" hspace="5"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img alt="Git" title="Git" width="30" height="40" hspace="5"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /  <img alt="GitHub" title="GitHub" width="30" height="40" hspace="5"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  <img alt="GitHub" title="GitHub" width="30" height="40" hspace="5"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img alt="Visual Studio Code" title="VS Code" width="30" height="40" hspace="5"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
