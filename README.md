@@ -29,33 +29,33 @@
 
 </div>
 
+<!-- GitHub Statistics -->
 
-<!-- Frase de apresentação -->
-
-<p align="center">
-  💻 Passionate about technology, creativity and continuous learning.
-</p>
-
-<p align="center">
-  ✨ Turning ideas into code, one step at a time! ✨
-</p>
-
+<div>
+  <img
+    height="180"
+    alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=thaismoraisx&show_icons=true&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&icon_color=80CBC4&border_color=858595&border_radius=0&ring_color=F48FB1"
+  /> <img
+    height="180"
+    alt="Most Used Languages"
+    <img
+  height="180"
+  alt="Most Used Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoraisx&layout=compact&theme=default&bg_color=30303F&title_color=F48FB1&text_color=F5F5F5&border_color=858595&border_radius=0&hide_border=false"
+/>
+</div>
 <!-- Seção de tecnologias -->
 
-<br>
 
-<h2>🌸 Technologies & Tools</h2>
-
-<p>Technologies I'm learning and tools I use.</p>
-
-<div align="center">
-  <img alt="HTML5" title="HTML5" width="45" height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     <img alt="CSS3" title="CSS3" width="45" height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img alt="JavaScript" title="JavaScript" width="45" height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="C" title="C" width="45" height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img alt="Git" title="Git" width="45" height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /  <img alt="GitHub" title="GitHub" width="45" height="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img alt="Visual Studio Code" title="VS Code" width="45" height="45"
+<div>
+  <img alt="HTML5" title="HTML5" width="30" height="50" hspace="3"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     <img alt="CSS3" title="CSS3" width="30" height="50" hspace="3"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img alt="JavaScript" title="JavaScript" width="30" height="50" hspace="3"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="C" title="C" width="30" height="50" hspace="3"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img alt="Git" title="Git" width="30" height="50" hspace="3"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /  <img alt="GitHub" title="GitHub" width="30" height="50" hspace="3"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img alt="Visual Studio Code" title="VS Code" width="30" height="50" hspace="3"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
@@ -104,35 +104,5 @@
 
 <br clear="both">
 
-<!-- GitHub Statistics -->
-
-<br>
-
-<h2>📊 GitHub Statistics</h2>
-
-<p>My coding journey in numbers! 🌸</p>
-
-<div>
-  <img
-    height="180"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=thaismoraisx&show_icons=true&theme=default&bg_color=FFF0F5&title_color=9575CD&text_color=6A5ACD&icon_color=C8A2C8&border_color=F8BBD0&border_radius=15"
-  /> <img
-    height="180"
-    alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoraisx&layout=compact&bg_color=FFF0F5&title_color=9575CD&text_color=6A5ACD&border_color=F8BBD0&border_radius=15"
-  />
-</div>
-
-<br>
-<!-- GitHub Activity Graph -->
-
-<br>
-
-<h2>🌸 My Coding Activity</h2>
-
-<p>A little glimpse of my coding journey! ✨</p>
-
-<!-- O gráfico será adicionado aqui -->
 
 <br>
