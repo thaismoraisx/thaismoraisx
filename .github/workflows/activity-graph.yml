@@ -1,7 +1,9 @@
-
-name: 🌸 My GitHub Activity
+name: My GitHub Activity
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -9,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🌷 Welcome
-        run: echo "Hello Thaís! Your GitHub Action is working!"
+      - name: Welcome
+        run: echo "Hello Thais! Your GitHub Action is working!"
