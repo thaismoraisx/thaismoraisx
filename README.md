@@ -4,7 +4,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:C8A2C8,100:9575CD&height=200&section=header&text=Hello%2!!!!!%20I'm%20Thais&fontSize=35&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:C8A2C8,100:9575CD&height=200&section=header&text=Hello!!!!%20I'm%20Thaís&fontSize=35&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"
     alt="Banner de apresentação"
   />
 
@@ -14,7 +14,7 @@
 <!-- Apresentação -->
 
 <h3 align="center">
-  🌸 Welcome to my coding journey!
+  🌸 Welcome to my coding journey! 🌸
 </h3>
 
 
@@ -37,5 +37,69 @@
 </p>
 
 <p align="center">
-  ✨ Turning ideas into code, one step at a time! 
+  ✨ Turning ideas into code, one step at a time! ✨
 </p>
+
+<!-- Seção de tecnologias -->
+
+<br>
+
+<h2>🌸 Technologies & Tools</h2>
+
+<p>Technologies I'm learning and tools I use.</p>
+
+<div align="center">
+  <img alt="HTML5" title="HTML5" width="45" height="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />     <img alt="CSS3" title="CSS3" width="45" height="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img alt="JavaScript" title="JavaScript" width="45" height="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="C" title="C" width="45" height="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img alt="Git" title="Git" width="45" height="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /  <img alt="GitHub" title="GitHub" width="45" height="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />  <img alt="Visual Studio Code" title="VS Code" width="45" height="45"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+</div>
+
+<br>
+<!-- Seção About Me -->
+
+<br>
+
+<h2>🌸 About Me</h2>
+
+<img
+  align="right"
+  alt="Girl coding on a laptop"
+  width="280"
+  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f"
+/>
+<p>
+  Hi! I'm Thaís, a technology student passionate about
+  learning, creativity, and software development.
+</p>
+
+<p>
+  I'm currently exploring programming and building
+  my skills through hands-on projects.
+</p>
+
+<p>
+  💻 Aspiring Software Developer
+</p>
+
+<p>
+  🌱 Currently learning HTML, CSS, JavaScript, and C
+</p>
+
+<p>
+  🚀 Exploring new technologies and improving my coding skills
+</p>
+
+<p>
+  🎯 My goal is to grow as a developer and create meaningful projects
+</p>
+
+<p>
+  ✨ Always curious, always learning!
+</p>
+
+<br clear="both">
